@@ -104,6 +104,6 @@
 
 ## Deployment
 
-- [Netlify Deployment](https://gsg-tt9-project-gamers-website.netlify.app/)
+- [Netlify Deployment]([https://gsg-tt9-project-gamers-website.netlify.app/])
 
 
