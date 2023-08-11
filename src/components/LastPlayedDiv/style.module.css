@@ -1,0 +1,62 @@
+.div {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  border-radius: 33px 25px 25px 35px;
+  padding-right: 0.5rem;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  -webkit-border-radius: 33px 25px 25px 35px;
+  -moz-border-radius: 33px 25px 25px 35px;
+  -ms-border-radius: 33px 25px 25px 35px;
+  -o-border-radius: 33px 25px 25px 35px;
+}
+
+.div_light {
+  background: #fbfbfb;
+}
+
+.div_dark {
+  background: #515151;
+}
+
+.div img {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+}
+
+.green,
+.blue,
+.sky_blue,
+.yellow {
+  transition: all 500ms;
+  -webkit-transition: all 500ms;
+  -moz-transition: all 500ms;
+  -ms-transition: all 500ms;
+  -o-transition: all 500ms;
+}
+
+.green:hover {
+  box-shadow: 0px 0px 20px 6px #17d924;
+}
+
+.blue:hover {
+  box-shadow: 0px 0px 20px 6px #1360dd;
+}
+
+.sky_blue:hover {
+  box-shadow: 0px 0px 20px 6px #2771b7;
+}
+
+.yellow:hover {
+  box-shadow: 0px 0px 20px 6px #dfe228;
+}
+
+.div h5 {
+  font-family: "Gilroy";
+  font-weight: 300;
+}
